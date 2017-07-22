@@ -1,2 +1,4 @@
 new A TEST
-c.txt
+c.txtc.txt
+xindedongxi
+xxx
